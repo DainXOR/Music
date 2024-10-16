@@ -4,33 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aabf6831-aa6d-4fc6-9f08-fdf0b041b63f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/music.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/test/Feature Phone - Tangent Plane.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/test/Forhill - Liminal.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/test/Hotel Pools - Moonrise.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/test/Marie - AnnenMayKantereit.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/test/Monolism - Sky Above.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/test/Narvent - Her Eyes (4K Music Video).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/test/Rudimental x Charlotte Plank x Vibe Chemistry - Dancing Is Healing.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/test/Sofia X Veridis Quo - Daft Punk ft. Clairo.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/test/Sokie - New Love (2).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/test/Sokie - New Love.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/test/The Neighbourhood - Softcore (Official Audio).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/test/Tragic Sasha - Hangover (Official Music Video) (2).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/test/Tragic Sasha - Hangover (Official Music Video).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/test/dodie - No Big Deal (I Love You) - live from the attic    (2).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/test/dodie - No Big Deal (I Love You) - live from the attic.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/test/meganeko - Milkshake (Official Audio).mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files/test/oDDling - Intertwine.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/preprocessing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
+    <list default="true" id="aabf6831-aa6d-4fc6-9f08-fdf0b041b63f" name="Changes" comment="Hmmm">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,9 +15,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;DainXOR&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/DainXOR/Music&quot;,
+    &quot;accountId&quot;: &quot;6fceec73-e8ba-437f-a2fc-efbffac798b0&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2nUHFMtNPc7aDkGUJQMPTIhamu8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -51,16 +38,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.main.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "E:/dev/python/Pycharm/music/files/test",
-    "settings.editor.selected.configurable": "vcs.Git"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/dev/python/Pycharm/music/files/test&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\dev\python\Pycharm\music\files\test" />
@@ -107,6 +94,19 @@
       <option name="presentableId" value="Default" />
       <updated>1729020630865</updated>
     </task>
+    <task id="LOCAL-00001" summary="Hmmm">
+      <option name="closed" value="true" />
+      <created>1729047939180</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1729047939180</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Hmmm" />
+    <option name="LAST_COMMIT_MESSAGE" value="Hmmm" />
   </component>
 </project>
